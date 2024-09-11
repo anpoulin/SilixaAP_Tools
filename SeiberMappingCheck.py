@@ -1,7 +1,7 @@
 import json 
 import matplotlib.pyplot as plt
 
-filename = 'c:\Projects\TOYO\P40_PTW1.json'
+filename = 'c:\Projects\TOYO\P40_PTW2.json'
 
 # Open the JSON file
 with open(filename, 'r') as file:
